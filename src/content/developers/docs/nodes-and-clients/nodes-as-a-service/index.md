@@ -108,6 +108,22 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
     - Dashboard
     - Per node basis
     - Analytics
+- [**Blockin.ai**](https://blockin.ai)
+  -[Docs](https://docs.blockin.ai)
+  -Features
+   - Portfolio tracking
+   - On-chain analytics
+   - Trading analytics
+   - NFT analytics 
+   - Token analytics
+   - Portfolio analytics 
+   - Mirror trading
+   - Archive & Full Nodes
+   - Free API plan for individual users
+   - Enterprise tier plans
+   - 24/7 live support
+   - Live Dashboards
+   - Multichain Support 22+ Chains available
 - [**BlockPI**](https://blockpi.io/)
   - [Docs](https://docs.blockpi.io/)
   - Fetures
